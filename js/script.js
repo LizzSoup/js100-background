@@ -42,6 +42,7 @@
 // ====================================================================================
 
 const body = document.querySelector('body');
+// colors legend [0:red, 1:orange, 2: yellow, 3:green, 4:turquoise, 5:blue, 6:purple, 7:pink, 8:grey, 9:hotPink]
 const colors = ['#E74C3C', '#E67E22', '#F4D03F', '#28B463', '#76D7C4', '#2980B9', '#7D3C98', '#F5B7B1', '#5D6D7E', '#E91E63'];
 
 function myFunction() {
